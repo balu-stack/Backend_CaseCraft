@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+email-validator
+python-dotenv
+mysql-connector-python
+passlib
+bcrypt
+google-genai
